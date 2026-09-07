@@ -3,7 +3,7 @@ Welcome to my AWS Project Portfolio! This repository features a collection of pr
 
 
 Project Levels
-The projects are categorized into four levels, each reflecting a different degree of expertise:
+The projects are categorized into three levels, each reflecting a different degree of expertise:
 
 Level 1 (Introductory)
 
