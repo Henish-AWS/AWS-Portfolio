@@ -13,24 +13,4 @@ Level 2 (Intermediate)
 Level 3 (Advanced)
 
 
-aws-portfolio/
-├── lambda/
-│   ├── hello-world/
-│   │   ├── index.py
-│   │   └── requirements.txt
-│   └── data-processor/
-│       ├── handler.py
-│       └── package.json
-├── dynamodb/
-│   ├── schemas/
-│   │   ├── users-table.json
-│   │   └── orders-table.json
-│   └── sample-data/
-│       └── users-seed.json
-├── iam/
-│   ├── policies/
-│       ├── lambda-dynamodb-access.json
-│       └── s3-readonly-policy.json
-│   └── roles/
-│       └── lambda-execution-role.json
-└── README.md
+
