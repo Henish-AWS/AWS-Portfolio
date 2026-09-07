@@ -1,1 +1,17 @@
-
+aws-project-template/
+├── .github/
+│   └── workflows/
+│       └── ci-cd.yml
+├── docs/
+│   └── architecture.md
+├── src/
+│   ├── lambda/
+│   └── scripts/
+├── terraform/
+│   ├── main.tf
+│   ├── variables.tf
+│   ├── outputs.tf
+│   └── backend.tf
+├── .gitignore
+├── README.md
+└── LICENSE
